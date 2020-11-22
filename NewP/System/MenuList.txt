@@ -1,0 +1,2 @@
+ 1 ,checken,100,Special,1
+ 2 ,checken karhai,750,Special,2
